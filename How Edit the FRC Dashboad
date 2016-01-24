@@ -1,0 +1,17 @@
+How to Edit the FRC Dashboard (All the steps are windows specific)
+
+Open LabVeiw from the desktop.
+Create a new dashboard project.
+Give it a name (That makes sense).
+A smaller window called project explorer will pop up.
+Double click on Dashboard main.vi
+A bigger window that is your dashboard will pop up.
+Next to that window is one with all the stuff you can put in the tabs.
+Make the changes necessary.
+When you’re done, in the project explore window, under build specifications, right click FRC_Dashboard.
+Click build.
+Find the build file and copy it to c:/program files/FRC Dashboard.
+Inside c:/users/public/public documents/FRC, open FRC DS Data storage.
+Change the Dashboardcmd line from dashboard.exe to the name of your build file
+It will hopefully run.
+For additional help, ask the coding lead or anyone with experience doing this.
