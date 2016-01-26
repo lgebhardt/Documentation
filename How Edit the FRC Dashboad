@@ -10,6 +10,7 @@ Next to that window is one with all the stuff you can put in the tabs.
 Make the changes necessary.
 When you’re done, in the project explore window, under build specifications, right click FRC_Dashboard.
 Click build.
+Click explore.
 Find the build file and copy it to c:/program files/FRC Dashboard.
 Inside c:/users/public/public documents/FRC, open FRC DS Data storage.
 Change the Dashboardcmd line from dashboard.exe to the name of your build file
