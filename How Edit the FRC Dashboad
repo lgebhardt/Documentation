@@ -5,7 +5,7 @@ Create a new dashboard project.
 Give it a name (That makes sense).
 A smaller window called project explorer will pop up.
 Double click on Dashboard main.vi
-A bigger window that is your dashboard will pop up.
+A bigger window that is your custom dashboard will pop up.
 Next to that window is one with all the stuff you can put in the tabs.
 Make the changes necessary.
 When you’re done, in the project explore window, under build specifications, right click FRC_Dashboard.
