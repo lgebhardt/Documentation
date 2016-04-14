@@ -1,5 +1,0 @@
-1. Navigate to directory containing local copy of networktables.ini
-2. run command: stfp lvuser@roboRIO-(team#)-FRC.local
-3. run command: rm networktables.ini*
-4. while no driver station is connected, run command: put networktables.ini
-5. run command: exit
