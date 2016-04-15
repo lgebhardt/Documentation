@@ -57,3 +57,7 @@ enum ButtonNames {
    BUTTON_JOYSTICK_RIGHT  // = 11
 };
 ```
+
+### Namespaces
+
+Namespaces names should be all lowercase, and use no abbreviated terms or symbols. Top level namespaces should be related to the project and team name.
