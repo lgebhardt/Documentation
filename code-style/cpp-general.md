@@ -66,7 +66,7 @@ When many developers use different methods of indentation, it can make code very
 
 ### Brackets
 
-There are many different ways of using brackets in C++, but for the purposes of projects related to robotics, we follow the convention of putting brackets on new lines, and always including them, even for single line if statements. For bracketed blocks that contain larger blocks of code, we also recommend putting blank lines between the top and bottom brackets. Here is an example of a single line if statement as an example:
+There are many different ways of using brackets in C++, but for the purposes of projects related to robotics, we follow the convention of putting brackets on new lines, and always including them, even for single line if statements. For bracketed blocks that contain larger blocks of code, we also recommend putting blank lines between the top and bottom brackets. Here is an example of a single line if statement:
 
 ```C++
 if (true)
