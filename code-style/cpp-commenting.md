@@ -21,7 +21,9 @@ This if statement does not need a comment above it that reads "If the motor is m
 One important thing to remember, though, is that while we did mention that code tells you how farther up, sometimes the "how" can be very complex. This may be a good time for a comment. Code that makes perfect sense to you after hours of debugging may make no sense at all to fresh eyes. Another great place to include comments is when you use an alternative method to accomplish something, and it may not be clear why that method was used. For example, this is a very useful comment:
 
 ```C++
-/* A binary search turned out to be slower than the Boyer-Moore algorithm for the data sets of interest, thus we have used the more complex, but faster method even though this problem does not at first seem amenable to a string search technique. */
+/* A binary search turned out to be slower than the Boyer-Moore algorithm for the data sets
+of interest, thus we have used the more complex, but faster method even though this problem
+does not at first seem amenable to a string search technique. */
 ```
 
 ## Form of a Comment
