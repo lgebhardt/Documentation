@@ -6,7 +6,7 @@ Comments are a very important element to consider whenever writing code. They he
 
 In addition to the information provided here, there are also metadata comments that need to be added before code is pushed to the public Team Phoenix repositories. For more information about that, look at the `git` folder.
 
-## When to Comment
+### When to Comment
 
 Not every line needs a comment. In many cases, adding comments can make code more cluttered and harder to read. for example, consider this if statement:
 
@@ -26,7 +26,7 @@ of interest, thus we have used the more complex, but faster method even though t
 does not at first seem amenable to a string search technique. */
 ```
 
-## Form of a Comment
+### Form of a Comment
 
 Comments should be kept brief and impersonal, and the use of first and second person should generally be avoided. For example, combining this knowledge with the previous section, here is a before and after for a block of code.
 
@@ -83,5 +83,7 @@ else {
     
 }
 ```
+
+### Disclaimer
 
 Keep in mind that these are all just guidelines, and they may not be applicable to every snippet of code. Comments are the most variable part of these guidelines, and some parts of code may need more of them than other parts of code. The most important thing is to maintain as much readability and maintainability as possible. You are free to use your own judgement on how and when to comment, within reason.
