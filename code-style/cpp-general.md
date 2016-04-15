@@ -62,7 +62,7 @@ int doSomethingComplicated (VeryLongType sourceData, // you can add comments her
 
 ### Indentation
 
-When many developers use different methods of indentation, it can make code very hard to maintain. In order to keep everything consistent and make copying and pasting code easier, the Team Phoenix subteam (from the 2017 build season onwards) uses four space indentation. To set this up in Eclipse, see the code style section of the `eclipse-setup` guide in the `eclipse` folder.
+When many developers use different methods of indentation, it can make code very hard to maintain. In order to keep everything consistent and make copying and pasting code easier, the Team Phoenix subteam (from the 2017 build season onwards) uses four space indentation. Do not attempt to commit code that uses tabs characters to any repository. To set up proper four space tabs in Eclipse, see the code style section of the `eclipse-setup` guide in the `eclipse` folder.
 
 ### Brackets
 
